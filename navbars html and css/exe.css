@@ -1,0 +1,124 @@
+
+.msg{
+    display: none;
+}
+.navbar1{
+    width: 100%;
+    height: 7%;
+    /* border: 1px solid black; */
+    /* background-color: aqua; */
+    display: flex;
+    justify-content: space-between;
+    box-shadow: gray 1px 1px 5px 1px;
+    border-radius: 10px;
+}
+.col1{
+    /* background-color: blueviolet; */
+    width: 15%;
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+}
+.leftcont{
+    display: flex;
+    justify-content: space-between;
+    /* background-color: beige; */
+    margin-top: 8%;
+    width: 30%;
+    height: 50%;
+}
+.icon{
+    margin-right: 20%;
+}
+.rightcont{
+    /* background-color: antiquewhite; */
+    width: 50%;
+    height: 100%;
+    display: flex;
+    margin-top: 8%;
+    /* margin-left: 25%; */
+    /* float: right; */
+
+}
+
+.circl{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-right: 10%;
+}
+.rect{
+    width: 40px;
+    height: 20px;
+    border-radius: 25px;
+    background-color: blue;
+
+
+}
+
+.col2{
+    /* background-color: blueviolet; */
+    width: 50%;
+    height: 50px;
+    display: flex;
+    justify-content: space-around;
+    /* position: relative; */
+}
+
+.headings{
+    width: 100px;
+    height: 50px;
+    /* background-color: aqua; */
+}
+.hed1{
+    font-size: 10px;
+    height: 10px;
+}
+.hed2{
+    font-size: 10px;
+    height: 10px;
+
+}
+.ayuda{
+    font-size: 20px;
+    /* background-color: blue; */
+    margin-top: 10px;
+}
+.message{
+    margin-top: 13px;
+}
+.cal{
+    margin-top: 13px;
+    
+}
+
+.noti{
+    /* background-color: aliceblue; */
+    width: 30px;
+    margin-top: 13px;
+
+}
+.name{
+    margin-top: 13px;
+    position: relative;
+    /* background-color: aliceblue; */
+    /* z-index: 4; */
+    display: flex;
+}
+.circl1{
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+    background-color: blue;
+    margin-right: 10%;
+
+    /* position: relative; */
+    /* z-index: 1; */
+}
+#ic{
+    display: inline;
+    position: absolute;
+    top: 0px;
+    /* left: 10px; */
+}
